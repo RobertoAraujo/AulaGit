@@ -1,0 +1,5 @@
+#Arquivo que ignora arquvos no git
+.idea/
+*.iml
+.out/
+bin/
